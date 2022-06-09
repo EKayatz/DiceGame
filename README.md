@@ -1,1 +1,1 @@
-# DiceGamee
+# DiceGame
